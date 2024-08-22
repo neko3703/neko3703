@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://twitter.com/neko3703" target="blank"><img src="https://img.shields.io/twitter/follow/neko3703?logo=twitter&style=for-the-badge" alt="neko3703" /></a> </p>
 
-- 🔭 I’m currently working on [ニキータ・パリク discord bot.](https://nikibot.in/)
+- 🔭 I’m currently working on [ニキータ・パリク discord bot.](https://nekocode.in/)
 
 - 👨‍💻 You can connect me at [https://www.linkedin.com/in/tejasva-sharma2402/](https://www.linkedin.com/in/tejasva-sharma2402/)
 
 - 📫 How to reach me **np3703gamer@gmail.com**
 
-- 📄 Know about me, my experiences and what I do [https://nikibot.in/about-me](https://nikibot.in/about-me)
+- 📄 Know about me, my experiences and what I do [https://nikibot.in/about-me](https://nekocode.in/about-me)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
