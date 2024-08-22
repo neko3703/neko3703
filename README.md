@@ -9,9 +9,9 @@
 
 - 👨‍💻 You can connect me at [https://www.linkedin.com/in/tejasva-sharma2402/](https://www.linkedin.com/in/tejasva-sharma2402/)
 
-- 📫 How to reach me **contact@nekocode.com**
+- 📫 Contact me at **contact@nekocode.com**
 
-- 📄 Know about me, my experiences and what I do [https://nekocode.in/about-me](https://nekocode.in/about-me)
+- 📄 Know about me, my experiences and what I do visit: [https://nekocode.in/about-me](https://nekocode.in/about-me)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
