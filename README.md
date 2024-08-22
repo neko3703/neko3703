@@ -9,7 +9,7 @@
 
 - 👨‍💻 You can connect me at [https://www.linkedin.com/in/tejasva-sharma2402/](https://www.linkedin.com/in/tejasva-sharma2402/)
 
-- 📫 Contact me at **contact@nekocode.com**
+- 📫 Contact me at **business@nekocode.com**
 
 - 📄 Know about me, my experiences and what I do visit: [https://nekocode.in/about-me](https://nekocode.in/about-me)
 
