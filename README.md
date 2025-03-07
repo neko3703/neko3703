@@ -18,7 +18,7 @@
 <a href="https://www.instagram.com/neko_3703" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="neko3703" height="30" width="40" /></a>
 <a href="https://twitter.com/neko3703" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="neko3703" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/tejasva-sharma2402" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tejasva-sharma2402" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/ニキータ・パリーク" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ニキータ・パリーク" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@neko_code" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ニキータ・パリーク" height="30" width="40" /></a>
 <a href="https://discord.gg/https://discord.gg/Xyk2TjeAMJ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/Xyk2TjeAMJ" height="30" width="40" /></a>
 </p>
 
