@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/neko3703" target="blank"><img src="https://img.shields.io/twitter/follow/neko3703?logo=twitter&style=for-the-badge" alt="neko3703" /></a> </p>
 
-- 🔭 I’m currently working on [ニキータ・パリク discord bot.](https://nekocode.in/)
+- 🔭 I’m currently working on [Neko Code discord bot.](https://nekocode.in/)
 
 - 👨‍💻 You can connect me at [https://www.linkedin.com/in/tejasva-sharma2402/](https://www.linkedin.com/in/tejasva-sharma2402/)
 
