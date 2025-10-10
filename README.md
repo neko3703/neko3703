@@ -11,7 +11,7 @@
 
 - 📫 Contact me at **business@nekocode.in**
 
-- 📄 Know about me, my experiences and what I do visit: [https://nekocode.in/about-me](https://nekocode.in/about-me)
+- 📄 Know about me, my experiences and what I do visit: [https://nekocode.in/about-me](https://nekocode.in/aboutme)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
