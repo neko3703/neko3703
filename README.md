@@ -26,7 +26,6 @@
   <a href="https://instagram.com/nekocode_"><img src="https://skillicons.dev/icons?i=instagram" height="40"/></a>
   <a href="https://twitter.com/neko3703"><img src="https://skillicons.dev/icons?i=twitter" height="40"/></a>
   <a href="https://linkedin.com/in/tejasva-sharma2402"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
-  <a href="https://youtube.com/@neko_code"><img src="https://skillicons.dev/icons?i=youtube" height="40"/></a>
   <a href="https://nekocode.in/discord"><img src="https://skillicons.dev/icons?i=discord" height="40"/></a>
 </p>
 
