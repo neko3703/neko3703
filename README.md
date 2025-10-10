@@ -80,7 +80,7 @@
 ### 🐍 Contribution Snake
 
 <p align="center">
-  <img src="![Snake animation](https://github.com/neko3703/neko3703/blob/output/snake.svg)" alt="snake animation" />
+  <img src="![Snake animation](https://raw.githubusercontent.com/neko3703/neko3703/output/snake.svg)" alt="snake animation" />
 </p>
 
 ---
